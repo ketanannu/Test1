@@ -1,0 +1,8 @@
+node {
+  
+   git 'https://github.com/ketanannu/Test1.git'
+
+  'mvn clean'
+  'mvn verify'
+  
+  }
